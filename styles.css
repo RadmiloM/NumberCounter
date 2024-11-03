@@ -5,3 +5,18 @@ body {
 h1 {
     text-align: center;
 }
+
+.counter {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 42px;
+    color: green;
+}
+.operations{
+    text-align: center;
+}
+
+.operation {
+    letter-spacing: 5px;
+    border-radius: 6px;
+}
